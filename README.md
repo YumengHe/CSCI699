@@ -1,6 +1,6 @@
 # USC CSCI 699 - Robotic Perception
 
-Semester: Fall 2026
+Semester: Fall 2025
 
 Professor: [Yue Wang]([https://yuewang.xyz/](https://yuewang.xyz/) )
 
